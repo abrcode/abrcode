@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on an advanced to-do application using Core Data, focusing on implementing optimized local storage solutions and database migrations.
+- 🔭 I’m currently exploring SwiftUI and Combine while also learning Kotlin Multiplatform Mobile (KMM) and Jetpack Compose.
 - 🌱 I’m currently learning SwiftUI and Combine to create modern, responsive UIs and improve my app design skills. I’m also exploring the integration of AI into iOS apps.
 - 🤔 I’m looking for help with understanding advanced system design principles for scalable iOS applications.
 - 💬 Ask me about iOS development, Swift, SwiftUI, Core Data, and integrating AI features in apps.
